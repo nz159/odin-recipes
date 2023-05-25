@@ -1,1 +1,2 @@
 # odin-recipes
+The goal of this project is to make a simple recipe website to practice/get comfortable with basic elements and the structure of HTML files. Styling will be done later on, as this project uses HTML only.
